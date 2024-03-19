@@ -40,6 +40,7 @@
 3. Компиляция и запуск:
  ```bash 
     go build -o task-manager ./cmd/task-manager/main.go
+    ./task-manager
  ```  
 ### Использование Утилиты Task
 
